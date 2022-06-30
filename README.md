@@ -20,6 +20,9 @@ that URL.
 2. captcha.py is the BONUS task that solves the captcha on https://www.amazon.com/errors/validateCaptcha and submits the form successfully.
 3. You can also access the web-scraping.py program on Google Collab using the Google Collab button at the beginning of this README.
 
+## Feedback 
+For every batch of 100 websites, the program took 2 minutes and 21 seconds on average.
+
 ## Thank you 
 I would also like to attach <a href="https://ansh-portfolio.web.app/">my portfolio website link</a> which I designed and coded myself. 
 
